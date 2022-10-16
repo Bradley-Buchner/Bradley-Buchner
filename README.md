@@ -30,5 +30,6 @@ https://tinyurl.com/USAB-BP-Data-Viewer
 Web application that served as USA Baseball's primary source of data-oriented evaluation for the 2021 18u National Team and 15u National Team player selection process. 
 https://tinyurl.com/USAB-Player-Identification
 
-[Resume_BradleyBuchner.docx](https://github.com/Bradley-Buchner/Bradley-Buchner/files/9795550/Resume_BradleyBuchner.docx)
+## Resume
 
+[Resume_BradleyBuchner.pdf](https://github.com/Bradley-Buchner/Bradley-Buchner/files/9795569/Resume_BradleyBuchner.pdf)
