@@ -17,16 +17,16 @@ My professional experience consists of 4 years of working with data in baseball.
 
 ### Predicting Swing Power with Athletic Explosiveness, and How it Isolates the Hit Tool (August 2022 - October 2022)
 Study on athletic assessment and batting practice data for MLB Draft propsects collected by USA Baseball. 
+https://medium.com/@bradleybuchner1/predicting-swing-power-with-athletic-explosiveness-and-how-it-isolates-the-hit-tool-90bff7cb29df 
 
 ### UNC Baseball Blast and BP Data Viewer (August 2022)
 Web application for UNC Baseball batting practice data that enables communication of data between coach and player by allowing the user to record observations on data, log swing transformations, or log swing objectives. Browse the Github repository "UNCBaseball-Blast-App" for more information and a link to access a demo version of this app. 
 
 ### PDP League BP App (Summer 2022)
 Web application created while at USA Baseball for PDP League batting practice data that was used in the 2022 18u National Team player selection process. The app compares a prospect’s ball-flight to other PDP League prospects.
+https://tinyurl.com/USAB-BP-Data-Viewer 
 
 ### USAB Player Identification App (Summer 2021)
 Web application that served as USA Baseball's primary source of data-oriented evaluation for the 2021 18u National Team and 15u National Team player selection process. 
-
-## Resume: 
-
+https://tinyurl.com/USAB-Player-Identification
 
