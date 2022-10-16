@@ -32,7 +32,6 @@ https://tinyurl.com/USAB-Player-Identification
 
 ### USA Collegiate National Team and PDP postgame reports
 Game summary reports used by USA Baseball coaches and prospects. 
-file:///Users/bradleybuchner/Desktop/USA%20Baseball/USAB/2022-CNT-TrackMan-Report--July-1-.html
 
 ## Resume
 
