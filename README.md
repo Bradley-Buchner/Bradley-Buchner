@@ -31,7 +31,8 @@ Web application that served as USA Baseball's primary source of data-oriented ev
 https://tinyurl.com/USAB-Player-Identification
 
 ### USA Collegiate National Team and PDP postgame reports
-Game summary reports used by USA Baseball coaches and prospects. Download this zip file to view example reports:[Bradley-Buchner-main (1).zip](https://github.com/Bradley-Buchner/Bradley-Buchner/files/9795642/Bradley-Buchner-main.1.zip)
+Game summary reports used by USA Baseball coaches and prospects. Download this zip file to view example reports: [Bradley-Buchner-main.zip](https://github.com/Bradley-Buchner/Bradley-Buchner/files/9795655/Bradley-Buchner-main.zip)
+
 
 ## Resume
 
