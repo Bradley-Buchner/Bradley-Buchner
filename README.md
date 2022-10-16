@@ -1,7 +1,7 @@
 # Bradley Buchner's Portfolio
 
 ## About Me
-I am an undergraduate student at UNC-Chapel Hill graduating in 2023 studying Statistics and Analytics. Since December of 2019, I have held the position of Analyst for UNC Baseball. As of August 2021, I have held the position of Director of Analytics for UNC Baseball. Since May 2022, I have held the position of Senior Director of Analytics for UNC Baseball. In this role, I coordinate a team of analysts in... 
+I am an undergraduate student at UNC-Chapel Hill graduating in 2023 studying Statistics and Analytics. Since December of 2019, I have held the position of Analyst for UNC Baseball. As of August 2021, I have held the position of Director of Analytics for UNC Baseball. Since May 2022, I have held the position of Senior Director of Analytics for UNC Baseball. In this role, I lead a team of analysts in... 
 
 1. innovative performance data research
 2. transforming research into data strategy
