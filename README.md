@@ -20,7 +20,7 @@ Study on athletic assessment and batting practice data for MLB Draft propsects c
 https://medium.com/@bradleybuchner1/predicting-swing-power-with-athletic-explosiveness-and-how-it-isolates-the-hit-tool-90bff7cb29df 
 
 ### UNC Baseball Blast and BP Data Viewer (August 2022)
-Web application for UNC Baseball batting practice data that enables communication of data between coach and player by allowing the user to record observations on data, log swing transformations, or log swing objectives. Browse the Github repository "UNCBaseball-Blast-App" for more information and a link to access a demo version of this app. 
+Web application for UNC Baseball batting practice data that enables communication of data between coach and player by allowing the user to record observations on data, log swing transformations, or log swing objectives. Browse the Github repository "UNCBaseball-Blast-App" for more information and a link to access a demo version of this app: https://github.com/Bradley-Buchner/UNCBaseball-Blast-App
 
 ### PDP League BP App (Summer 2022)
 Web application created while at USA Baseball for PDP League batting practice data that was used in the 2022 18u National Team player selection process. The app compares a prospect’s ball-flight to other PDP League prospects.
