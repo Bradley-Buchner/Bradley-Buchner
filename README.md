@@ -8,7 +8,7 @@ I am an undergraduate student at UNC-Chapel Hill graduating in 2023 studying Sta
 3. The development of web application tools that illustrate data insights to our coaches and players through a user interface.
 4. The gathering of strategic advance scouting information.
 
-My role as the primary point of communication between team staff and the analytics team requires that I maintain consistent dialogue with team staff through weekly meetings and attendance at all practices to identify the most valuable implementations of data strategy.
+My role as the primary point of communication between team staff and the analytics team requires that I maintain consistent dialogue with team staff through frequent meetings and attendance at all practices to identify the most valuable implementations of data strategy.
 
 ## Experience
 My professional experience consists of 4 years of working with data in baseball. I am currently in my 4th season working with UNC Baseball and I have had 2 internships with USA Baseball. More details about my work experience can be found in my resume below. 
