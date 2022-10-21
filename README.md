@@ -32,7 +32,7 @@ https://tinyurl.com/USAB-BP-Data-Viewer
 Web application that served as USA Baseball's primary source of data-oriented evaluation for the 2021 18u National Team and 15u National Team player selection process. This project shows my R Shiny and data presentation skills. </br>
 https://tinyurl.com/USAB-Player-Identification
 
-### USA Collegiate National Team and PDP postgame reports
+### USA Collegiate National Team and PDP postgame reports (Summer 2022)
 Game summary reports used by USA Baseball coaches and prospects. These reports show my data presentation skills. Download this zip file to view example reports: </br>
 [Bradley-Buchner-main.zip](https://github.com/Bradley-Buchner/Bradley-Buchner/files/9795655/Bradley-Buchner-main.zip)
 
