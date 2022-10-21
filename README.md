@@ -38,7 +38,7 @@ Game summary reports used by USA Baseball coaches and prospects. These reports s
 
 
 ## Resume
-[Resume_BradleyBuchner.pdf](https://github.com/Bradley-Buchner/Bradley-Buchner/files/9811877/Resume_BradleyBuchner.pdf)
+[Resume_BradleyBuchner.pdf](https://github.com/Bradley-Buchner/Bradley-Buchner/files/9840512/Resume_BradleyBuchner.pdf)
 
 ## LinkedIn
 https://www.linkedin.com/in/bradley-buchner/
