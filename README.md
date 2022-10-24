@@ -17,7 +17,7 @@ My professional experience consists of 4 years of working with data in baseball.
 
 ### Predicting Swing Power with Athletic Explosiveness, and How it Isolates the Hit Tool (August 2022 - October 2022)
 Study on athletic assessment and batting practice data for MLB Draft propsects collected by USA Baseball. This project shows my predictive modeling skills as well as my ability to apply baseball logic to interpret statistical predictions. </br>
-Article: https://medium.com/@bradleybuchner1/predicting-swing-power-with-athletic-explosiveness-and-how-it-isolates-the-hit-tool-90bff7cb29df </br>
+Article: (awaiting approval)
 Github Repo: https://github.com/Bradley-Buchner/xEV90
 
 ### UNC Baseball Blast and BP Data Viewer (August 2022)
@@ -25,16 +25,13 @@ Web application for UNC Baseball batting practice data that enables communicatio
 https://github.com/Bradley-Buchner/UNCBaseball-Blast-App
 
 ### PDP League BP App (Summer 2022)
-Web application created while at USA Baseball for PDP League batting practice data that was used in the 2022 18u National Team player selection process. The app compares a prospect’s ball-flight to other PDP League prospects. This project shows my data presentation skills as well as my understanding of batting practice evaluation. </br>
-https://tinyurl.com/USAB-BP-Data-Viewer 
+Web application created while at USA Baseball for PDP League batting practice data that was used in the 2022 18u National Team player selection process. The app compares a prospect’s ball-flight to other PDP League prospects. This project shows my data presentation skills as well as my understanding of batting practice evaluation. 
 
 ### USAB Player Identification App (Summer 2021)
-Web application that served as USA Baseball's primary source of data-oriented evaluation for the 2021 18u National Team and 15u National Team player selection process. This project shows my R Shiny and data presentation skills. </br>
-https://tinyurl.com/USAB-Player-Identification
+Web application that served as USA Baseball's primary source of data-oriented evaluation for the 2021 18u National Team and 15u National Team player selection process. This project shows my R Shiny and data presentation skills. 
 
 ### USA Collegiate National Team and PDP postgame reports (Summer 2022)
-Game summary reports used by USA Baseball coaches and prospects. These reports show my data presentation skills. Download this zip file to view example reports: </br>
-[Bradley-Buchner-main.zip](https://github.com/Bradley-Buchner/Bradley-Buchner/files/9795655/Bradley-Buchner-main.zip)
+Game summary reports used by USA Baseball coaches and prospects. These reports show my data presentation skills. Download this zip file to view example reports: (awaiting approval)
 
 
 ## Resume
