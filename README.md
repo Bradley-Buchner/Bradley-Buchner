@@ -17,7 +17,7 @@ My professional experience consists of 4 years of working with data in baseball.
 
 ### Predicting Swing Power with Athletic Explosiveness, and How it Isolates the Hit Tool (August 2022 - October 2022)
 Study on athletic assessment and batting practice data for MLB Draft propsects collected by USA Baseball. This project shows my predictive modeling skills as well as my ability to apply baseball logic to interpret statistical predictions. </br>
-Article: (awaiting approval) </br>
+Article: https://medium.com/@bradleybuchner/predicting-swing-power-with-athletic-explosiveness-and-how-it-isolates-the-hit-tool-7dbc1ed08fa7 </br>
 Github Repo: https://github.com/Bradley-Buchner/xEV90
 
 ### UNC Baseball Blast and BP Data Viewer (August 2022)
