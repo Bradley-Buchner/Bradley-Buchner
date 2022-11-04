@@ -3,7 +3,7 @@
 ## About Me
 I am an undergraduate student at UNC-Chapel Hill graduating in 2023 studying Statistics and Analytics. Since December of 2019, I have held the position of Analyst for UNC Baseball. As of August 2021, I have held the position of Director of Analytics for UNC Baseball. Since May 2022, I have held the position of Senior Director of Analytics for UNC Baseball. In this role, I lead a team of analysts in... 
 
-1. Innovative performance data research
+1. Innovative data research
 2. Transforming research into data strategy
 3. The development of web application tools that illustrate data insights to our coaches and players through a user interface.
 4. The gathering of strategic advance scouting information.
