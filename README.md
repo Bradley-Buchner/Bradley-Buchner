@@ -1,17 +1,10 @@
 # Bradley Buchner's Portfolio
 
 ## About Me
-I am an undergraduate student at UNC-Chapel Hill graduating in 2023 studying Statistics and Analytics. Since December of 2019, I have held the position of Analyst for UNC Baseball. As of August 2021, I have held the position of Director of Analytics for UNC Baseball. Since May 2022, I have held the position of Senior Director of Analytics for UNC Baseball. In this role, I lead a team of analysts in... 
-
-1. Innovative data research
-2. Transforming research into data strategy
-3. The development of web application tools that illustrate data insights to our coaches and players through a user interface.
-4. The gathering of strategic advance scouting information.
-
-My role as the primary point of communication between team staff and the analytics team requires that I maintain consistent dialogue with team staff through frequent meetings and attendance at all practices to identify the most valuable implementations of data strategy.
+I am a recent graduate of UNC-Chapel Hill where I earned my degree in Statistics and Analytics and worked as a data analyst for the UNC Baseball team. Holding the position of UNC Baseball's Director of Analytics from 2021 to 2023, I led a team of 25-30 student analysts and worked closely with coaching staff and players to push data-driven initiatives. My primary interest is studying the science behind hitting performance with motion capture data and integrating this into an organization's hitting development.
 
 ## Experience
-My professional experience consists of 4 years of working with data in baseball. I am currently in my 4th season working with UNC Baseball and I have had 2 internships with USA Baseball. More details about my work experience can be found in my resume below. 
+My professional experience consists of 5 years of working with data in baseball. I recently completed an internship with the Chicago Cubs as member of their Baseball Sciences group, worked 4 years with UNC Baseball and have had 2 internships with USA Baseball. More details about my work experience can be found in my resume below. 
 
 ## Work Samples
 
@@ -35,8 +28,7 @@ Game summary reports used by USA Baseball coaches and prospects. These reports s
 
 
 ## Resume
-[Resume_BradleyBuchner.pdf](https://github.com/Bradley-Buchner/Bradley-Buchner/files/9940079/Resume_BradleyBuchner.pdf)
-
+[Resume_BradleyBuchner.pdf](https://github.com/Bradley-Buchner/Bradley-Buchner/files/12908678/Resume_BradleyBuchner.pdf)
 
 ## LinkedIn
 https://www.linkedin.com/in/bradley-buchner/
