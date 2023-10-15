@@ -18,7 +18,8 @@ Web application for UNC Baseball batting practice data that enables communicatio
 https://github.com/Bradley-Buchner/UNC-Blast-App-Demo
 
 ### PDP League BP App (Summer 2022)
-Web application created while at USA Baseball for PDP League batting practice data that was used in the 2022 18u National Team player selection process. The app compares a prospect’s ball-flight to other PDP League prospects. This project shows my data presentation skills as well as my understanding of batting practice evaluation. 
+Web application created while at USA Baseball for PDP League batting practice data that was used in the 2022 18u National Team player selection process. The app compares a prospect’s ball-flight to other PDP League prospects. This project shows my data presentation skills as well as my understanding of batting practice evaluation. <br>
+https://tinyurl.com/USAB-Rapsodo-Hitting-App
 
 ### USAB Player Identification App (Summer 2021)
 Web application that served as USA Baseball's primary source of data-oriented evaluation for the 2021 18u National Team and 15u National Team player selection process. This project shows my R Shiny and data presentation skills. 
