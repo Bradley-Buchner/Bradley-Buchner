@@ -9,12 +9,12 @@ My professional experience consists of 5 years of working with data in baseball 
 ## Work Samples
 
 ### Predicting Swing Power with Athletic Explosiveness, and How it Isolates the Hit Tool (August 2022 - October 2022)
-Study on athletic assessment and batting practice data collected by USA Baseball. This project shows my predictive modeling skills as well as my ability to apply baseball logic to interpret statistical predictions. </br>
+Study on athletic assessment and batting practice data collected by USA Baseball. This project shows my predictive modeling skills, familiarity with performance science data, and ability to apply baseball logic to interpret statistical predictions. </br>
 Article: https://medium.com/@bradleybuchner/predicting-swing-power-with-athletic-explosiveness-and-how-it-isolates-the-hit-tool-7dbc1ed08fa7 </br>
 Github Repo: https://github.com/Bradley-Buchner/xEV90
 
-### UNC Baseball Blast and BP Data Viewer (August 2022)
-Web application for UNC Baseball batting practice data that enables communication of data between coach and player by allowing the user to record observations on data, log swing transformations, or log swing objectives. This project shows my knowledge of database management and SQL querying skills. Browse the Github repository "UNCBaseball-Blast-App" for more information and a link to access a demo version of this app: </br>
+### UNC Baseball Blast Data Viewer (August 2022)
+Web application for UNC Basebal that allows coaches and hitters to view Blast and Trackman data alongside high-speed video. This project shows my understanding of hitting development and ability to create and manage a data pipeline with R and SQL. Browse the Github repository "UNC-Blast-App-Demo" for more information and a link to access a demo version of this app: </br>
 https://github.com/Bradley-Buchner/UNC-Blast-App-Demo
 
 ### PDP League BP App (Summer 2022)
@@ -22,7 +22,7 @@ Web application created while at USA Baseball for PDP League batting practice da
 https://tinyurl.com/USAB-Rapsodo-Hitting-App
 
 ### USAB Player Identification App (Summer 2021)
-Web application that served as USA Baseball's primary source of data-oriented evaluation for the 2021 18u National Team and 15u National Team player selection process. This project shows my R Shiny and data presentation skills. (link not avaiable)
+Web application that served as USA Baseball's primary source of data-oriented evaluation for the 2021 18u National Team and 15u National Team player selection process. (link not avaiable)
 
 ### USA Collegiate National Team and PDP postgame reports (Summer 2022)
 Game summary reports used by USA Baseball coaches and prospects. These reports show my data presentation skills. Download this zip file to view an example report: <br> [Trackman Report.zip](https://github.com/Bradley-Buchner/Bradley-Buchner/files/12910369/Trackman.Reports.zip)
