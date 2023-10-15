@@ -14,7 +14,7 @@ Article: https://medium.com/@bradleybuchner/predicting-swing-power-with-athletic
 Github Repo: https://github.com/Bradley-Buchner/xEV90
 
 ### UNC Baseball Blast Data Viewer (August 2022)
-Web application for UNC Basebal that allows coaches and hitters to view Blast and Trackman data alongside high-speed video. This project shows my understanding of hitting development and ability to create and manage a data pipeline with R and SQL. Browse the Github repository "UNC-Blast-App-Demo" for more information and a link to access a demo version of this app: </br>
+Web application for UNC Baseball that allows coaches and hitters to view Blast and Trackman data alongside high-speed video. This project shows my understanding of hitting development and ability to create and manage a data pipeline with R and SQL. Browse the Github repository "UNC-Blast-App-Demo" for more information and a link to access a demo version of this app: </br>
 https://github.com/Bradley-Buchner/UNC-Blast-App-Demo
 
 ### PDP League BP App (Summer 2022)
