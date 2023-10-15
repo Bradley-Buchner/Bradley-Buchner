@@ -1,10 +1,10 @@
 # Bradley Buchner's Portfolio
 
 ## About Me
-I am a recent graduate of UNC-Chapel Hill where I earned my degree in Statistics and Analytics and worked as a data analyst for the UNC Baseball team. Holding the position of UNC Baseball's Director of Analytics from 2021 to 2023, I led a team of 25-30 student analysts and worked closely with coaching staff and players to push data-driven initiatives. My primary interest is studying the science behind hitting performance with motion capture data and integrating this into an organization's hitting development.
+I am a recent graduate of UNC-Chapel Hill where I earned my degree in Statistics and Analytics and worked as a data analyst for the UNC Baseball team. Holding the position of UNC Baseball's Director of Analytics from 2021 to 2023, I led a team of 25-30 student analysts and worked closely with coaching staff and players to push data-driven initiatives. Following graduation I spent 3 months with the Chicago Cubs as an intern in their Baseball Sciences group where I researched hitting biomechanics. My primary interest is studying the science behind hitting performance with motion capture data and integrating this into an organization's hitting development.
 
 ## Experience
-My professional experience consists of 5 years of working with data in baseball. I recently completed an internship with the Chicago Cubs as member of their Baseball Sciences group, worked 4 years with UNC Baseball and have had 2 internships with USA Baseball. More details about my work experience can be found in my resume below. 
+My professional experience consists of 5 years of working with data in baseball that includes front office experience with the Chicago Cubs, 4 years leading UNC Baseball's R&D initiatives, and 2 summer internships with USA Baseball. More details about my work experience can be found in my resume below. 
 
 ## Work Samples
 
