@@ -15,7 +15,7 @@ Github Repo: https://github.com/Bradley-Buchner/xEV90
 
 ### UNC Baseball Blast and BP Data Viewer (August 2022)
 Web application for UNC Baseball batting practice data that enables communication of data between coach and player by allowing the user to record observations on data, log swing transformations, or log swing objectives. This project shows my knowledge of database management and SQL querying skills. Browse the Github repository "UNCBaseball-Blast-App" for more information and a link to access a demo version of this app: </br>
-https://github.com/Bradley-Buchner/UNCBaseball-Blast-App
+https://github.com/Bradley-Buchner/UNC-Blast-App-Demo
 
 ### PDP League BP App (Summer 2022)
 Web application created while at USA Baseball for PDP League batting practice data that was used in the 2022 18u National Team player selection process. The app compares a prospect’s ball-flight to other PDP League prospects. This project shows my data presentation skills as well as my understanding of batting practice evaluation. 
