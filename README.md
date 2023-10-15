@@ -22,7 +22,7 @@ Web application created while at USA Baseball for PDP League batting practice da
 https://tinyurl.com/USAB-Rapsodo-Hitting-App
 
 ### USAB Player Identification App (Summer 2021)
-Web application that served as USA Baseball's primary source of data-oriented evaluation for the 2021 18u National Team and 15u National Team player selection process. This project shows my R Shiny and data presentation skills. 
+Web application that served as USA Baseball's primary source of data-oriented evaluation for the 2021 18u National Team and 15u National Team player selection process. This project shows my R Shiny and data presentation skills. (link not avaiable)
 
 ### USA Collegiate National Team and PDP postgame reports (Summer 2022)
 Game summary reports used by USA Baseball coaches and prospects. These reports show my data presentation skills. Download this zip file to view an example report: <br> [Trackman Report.zip](https://github.com/Bradley-Buchner/Bradley-Buchner/files/12910369/Trackman.Reports.zip)
