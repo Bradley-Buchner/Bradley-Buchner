@@ -2,4 +2,4 @@ Hi! I'm Bradley, a UNC-Chapel Hill and Northeastern trained computational bioeng
 
 * I recently worked on augmenting INDRA (an automated knowledge assembly system for molecular biology) and evaluating biVI (a deep, biophysically-grounded generative model for scRNA-seq data)
 * I'm currently working on SynergyGT: a graph transformer model for predicting pairs of gene perturbations that synergistically alter lifespan in the roundworm *C. elegans*. 
-* Ask me about my love for UNC Basketball and pretentious appreciation of craft beer!
+* Ask me about my love for UNC Basketball and pretentious appreciation of craft beer! You can reach me at bradleybuchner1@gmail.com.
