@@ -1,4 +1,4 @@
-👋 Hi! I'm Bradley, a UNC-Chapel Hill and Northeastern trained computational bioengineer interested in all things AI and biology. As a lab research assistant at Northeastern University, I apply methods in deep learning to study the genetics of aging.
+👋 Hi! I'm Bradley, a UNC-Chapel Hill- and Northeastern-trained computational bioengineer interested in all things AI and biology. 
 
 Lately, I've been...
 - 🧬 [building SynergyGT](https://github.com/Bradley-Buchner/worm_synergy): a graph transformer model for predicting pairs of gene perturbations that synergistically alter lifespan in the roundworm *C. elegans*.
